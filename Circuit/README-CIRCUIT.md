@@ -1,6 +1,6 @@
 ## Circuit Design
 
-I decided to use the Arduino platform and as my 2 outputs, I used a 5V DC motor and active buzzer. And my input device was an ultrasonic sensor.
+I decided to use the Arduino platform and as my 2 outputs, I used a 5V DC motor and active buzzer. And my input device was an ultrasonic sensor. I used a 9V battery to power this system.
 
 ![](REF-Images/Parts.png)
 
@@ -13,3 +13,8 @@ This will alert the user and the closer the user approaches the obstacle the mor
 
 This is the Circuit Design:
 ![](REF-Images/Circuit-KiCad.png)
+
+In order to control the speeds of the Motor I used a L293D driver and PWM pins on the Arduino. By enabling these pins I was able to set speeds depending on what the ultra-sonic sensor data output.
+
+The end result:
+![]()
