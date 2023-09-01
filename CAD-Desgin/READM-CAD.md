@@ -5,4 +5,4 @@ For the housing of the device, I decided to design it in AutoDesk Inventor. It c
 For the top portion, I had to design the piece so that there was space for the buzzer hole and the USB connection to the Arduino so that I do not have to disassemble it every time I needed to update the code. Also had to ensure space for the mini-bread board for the circuits connection and a gap for the motor off-set weight so spins freely. I left a gap so that my professor could see it in action while in runtime. At each corner of the part, I designed sections for screw holes that will join the top and bottom parts.
 
 Here is the Result:
-![]()
+![](Images-CAD/Top-housing.png)
