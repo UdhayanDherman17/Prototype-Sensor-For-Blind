@@ -17,4 +17,4 @@ This is the Circuit Design:
 In order to control the speeds of the Motor I used a L293D driver and PWM pins on the Arduino. By enabling these pins I was able to set speeds depending on what the ultra-sonic sensor data output.
 
 The end result:
-![]()
+![](REF-Images/ENGER-2200 Circuit.PNG)
