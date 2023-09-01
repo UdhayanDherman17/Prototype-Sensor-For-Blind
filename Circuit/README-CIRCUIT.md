@@ -10,3 +10,5 @@ This is the 3D-printed offset weight:
 ![](REF-Images/OFFSET-WEIGHT.png)
 
 This will alert the user and the closer the user approaches the obstacle the more aggressive the vibration. If the user is at an extremely unsafe distance the buzzer will alarm alerting others nearby for assistance.
+
+This is the Circuit Design:
