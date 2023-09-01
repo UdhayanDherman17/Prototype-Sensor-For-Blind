@@ -10,4 +10,4 @@ Here is the Result:
 For the bottom part, I designed the part to ensure the fitting of the Arduino, USB, and battery pack. And along the border corners the screw holes to join the parts was also added.
 
 Here is the Result:
-![]()
+![](Images-CAD/Bot-Housing.png)
