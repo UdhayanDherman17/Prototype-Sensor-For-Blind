@@ -4,3 +4,5 @@ The project was built during my Engineering 2200 Class. We were given freedom of
 So I decided to design a device that could be substituted for a white cane. This makes it easier to navigate through obstacles without having to have harsh interactions with physical obstacles.
 
 ![](Host-Images/Introimg.png)![](Host-Images/Untitled.png)
+
+LINK TO DEMONSTRATION: https://youtube.com/shorts/KbBqHDNrCfg?feature=share
